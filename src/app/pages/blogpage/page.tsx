@@ -5,7 +5,7 @@ import { toast } from "react-toastify";
 import Navbar from "@/components/Navbar/Navbar";
 import "./blogPage.css";
 import Image from "next/image";
-import BlogsSlider from "@/components/blogcards/BlogsSlider";
+import BlogsSlider from "@/components/Blogcards/BlogsSlider";
 import Footer from "@/components/Footer/Footer";
 import ClockLoader from "react-spinners/ClockLoader";
 
